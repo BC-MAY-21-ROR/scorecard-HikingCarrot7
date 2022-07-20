@@ -15,8 +15,8 @@ sidebar:
   email: ricardoibarra2044@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: www.linkedin.com/in/nicolás-canul-ibarra-892446194
-  github: https://github.com/HikingCarrot7
+  linkedin: nicolás-canul-ibarra-892446194
+  github: HikingCarrot7
   gitlab:
   bitbucket:
   twitter:
@@ -37,9 +37,6 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
-    - item: Patience
-      link:
-
     - item: Team Work
       link: # dejar en blanco
 
@@ -53,9 +50,6 @@ sidebar:
       link:
 
     - item: Problem solving
-      link:
-
-    - item: Perseverance
       link:
 
 # Registra aquí un resumen de tu perfil
